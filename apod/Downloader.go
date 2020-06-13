@@ -1,4 +1,4 @@
-package internal
+package apod
 
 import (
 	"encoding/json"

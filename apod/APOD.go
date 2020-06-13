@@ -1,4 +1,4 @@
-package internal
+package apod
 
 // APODResponse ...
 type APODResponse struct {

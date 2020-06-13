@@ -1,4 +1,4 @@
-package internal
+package apod
 
 // Config ...
 type Config struct {
