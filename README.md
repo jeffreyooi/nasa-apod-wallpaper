@@ -4,6 +4,10 @@
 
 This is a NASA Astronomy Picture of the Day (APOD) wallpaper setter written in go.
 
+The motivation to create this project is:
+1. To learn Golang
+2. To automatically change my desktop wallpaper daily to beautiful NASA APOD daily
+
 ## Before you run
 You will need to generate an API key from https://api.nasa.gov/ and paste it on `apiKey` in `configs/config.json`. 
 
