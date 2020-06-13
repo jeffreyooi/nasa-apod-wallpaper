@@ -31,6 +31,5 @@ The configuration file is in `configs/config.json`. Currently there's only one o
 - Windows
 
 ## TODO
-- [ ] Set as desktop wallpaper after download
 - [ ] Make it run in background to automatically download and set wallpaper everyday
 - [ ] Cross platform support (Linux, macOS)
