@@ -1,3 +1,5 @@
+![Go Report Card](https://goreportcard.com/badge/github.com/jeffreyooi/nasa-apod-wallpaper)
+
 # NASA APOD Wallpaper Setter
 
 This is a NASA Astronomy Picture of the Day (APOD) wallpaper setter written in go.
