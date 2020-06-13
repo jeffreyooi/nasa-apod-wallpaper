@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/jeffreyooi/nasa-wallpaper/internal"
+	"github.com/jeffreyooi/nasa-apod-wallpaper/internal"
 )
 
 const (
